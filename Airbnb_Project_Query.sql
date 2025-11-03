@@ -120,7 +120,7 @@ order by 3 desc;
 select listing_id, count(date) as total_Review
 from reviews 
 group by listing_id
-order by 2 desc;
+order by 2 desc; 
 -- Average reviews per month
 select month(date) as Monthly_review, count(date) as average_review_per_month
 from reviews
