@@ -6,3 +6,6 @@
 - Which neighborhoods and hosts are most active?
 - What review activity says about demand?
 - Recommendation
+
+โปรเจ็คนี้ เป็นโปรเจ็คทางเลือกของเว็บไซต์ Analyst Builder
+สามารถอ่านและดูข้อมูลไฟล์ต่างๆของโปรเจ็คได้ที่ https://www.analystbuilder.com/projects/asheville-airbnb-listings-analysis-hQNaU
